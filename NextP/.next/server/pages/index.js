@@ -130,7 +130,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _navigation__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./navigation */ "./components/navigation.js");
 
-var _jsxFileName = "C:\\Users\\ADMIN\\Downloads\\NextP\\components\\Container.js";
+var _jsxFileName = "C:\\Users\\ADMIN\\Documents\\GitHub\\Proyecto_Zeniaq\\NextP\\components\\Container.js";
 
 
 
@@ -190,7 +190,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/router */ "next/router");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "C:\\Users\\ADMIN\\Downloads\\NextP\\components\\Users.js";
+var _jsxFileName = "C:\\Users\\ADMIN\\Documents\\GitHub\\Proyecto_Zeniaq\\NextP\\components\\Users.js";
 
 
 const Users = props => {
@@ -265,7 +265,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "C:\\Users\\ADMIN\\Downloads\\NextP\\components\\navigation.js";
+var _jsxFileName = "C:\\Users\\ADMIN\\Documents\\GitHub\\Proyecto_Zeniaq\\NextP\\components\\navigation.js";
 
 
 const Navigation = () => {
@@ -3220,7 +3220,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _chakra_ui_react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @chakra-ui/react */ "@chakra-ui/react");
 /* harmony import */ var _chakra_ui_react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_chakra_ui_react__WEBPACK_IMPORTED_MODULE_5__);
 
-var _jsxFileName = "C:\\Users\\ADMIN\\Downloads\\NextP\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\ADMIN\\Documents\\GitHub\\Proyecto_Zeniaq\\NextP\\pages\\index.js";
 
 
 
