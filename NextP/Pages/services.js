@@ -5,7 +5,7 @@ const Services =() => (
         
         <Container>
             <Head>
-                <title>Next.js - Services</title>
+                <title>Servicios</title>
             </Head>
              <h1>Services</h1>
              <p>lorem </p>

@@ -4,7 +4,7 @@ const Navigation =() => {
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
         <Link href="/">
-            <a className="navbar-brand">Home</a>
+            <a className="navbar-brand">Inicio</a>
         </Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
@@ -14,12 +14,12 @@ const Navigation =() => {
                
               <li className="nav-item">
             <Link href="/about">
-                <a className="nav-link">About</a>
+                <a className="nav-link">Acerca de</a>
             </Link>
               </li>
               <li className="nav-item">
             <Link href="/services">
-                <a className="nav-link">Services</a>
+                <a className="nav-link">Servicios</a>
             </Link>
               </li>          
             </ul>
