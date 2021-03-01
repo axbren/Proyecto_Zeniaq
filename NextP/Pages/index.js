@@ -10,10 +10,12 @@ const Index = (props) => {
     return (
         <Container>
             <Head>
-                <title>Inicio</title>
+                <title>Next.js - Home</title>
             </Head>
             <h1>Next</h1>
-            
+            <Button colorScheme="blue" variant="outline">
+                Button
+            </Button>
             <Users users={props.users} />
         </Container>
     );
