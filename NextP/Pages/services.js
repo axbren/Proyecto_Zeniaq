@@ -55,27 +55,58 @@ const Services =() => (
             <Button colorScheme="blue" size="xs">
                 Button_3
             </Button>
-<tr></tr>
+<br></br>
+<br></br>
+<Image
+borderRadius="full"
+boxSize="50px"
+src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_4
             </Button>
-<tr></tr>
+<br></br>
+<Image
+borderRadius="full"
+boxSize="50px"
+src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_5
             </Button>
-<tr></tr>
+<br></br>
+<Image
+borderRadius="full"
+boxSize="50px"
+src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_6
             </Button>
-<tr></tr>
+<br></br>
+<Image
+borderRadius="full"
+boxSize="50px"
+src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_7
             </Button>
-<tr></tr>
+<br></br>
+<Image
+borderRadius="full"
+boxSize="50px"
+src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_8
             </Button>
-<tr></tr>
+<br></br>
+<Image
+borderRadius="full"
+boxSize="50px"
+src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_9
             </Button>
