@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import {Image, ImageGroup} from "@chakra-ui/react"
 const Navigation =() => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -21,7 +22,15 @@ const Navigation =() => {
             <Link href="/services">
                 <a className="nav-link">Servicios</a>
             </Link>
-              </li>          
+              </li> 
+              <li>
+              <Image
+            borderRadius="full"
+  boxSize="50px"
+  src="https://www.lopezocadizcontadores.com/wp-content/uploads/2018/07/cropped-logos_lo_icon-2.png"
+  alt="Segun Adebayo"
+/>
+                </li>         
             </ul>
           </div>
         </div>

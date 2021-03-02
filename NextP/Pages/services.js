@@ -5,14 +5,12 @@ import {Box, BoxGroup} from "@chakra-ui/react"
 import {Image, ImageGroup} from "@chakra-ui/react"
 import {Text, TextGroup} from "@chakra-ui/react"
 import { Grid, GridItem } from "@chakra-ui/react"
-import { Link, LinkGroup } from "@chakra-ui/react"
+
 
 const Services =() => (
         
         <Container>
             <Head>
-                <Link href="https://www.lopezocadizcontadores.com/wp-content/uploads/2018/07/cropped-logos_lo_icon-2.png"  >
-                </Link>
                 <title>Contadores y Auditores Lopez Ocadiz</title>
             </Head>
             <center>
