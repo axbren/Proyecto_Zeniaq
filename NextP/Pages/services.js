@@ -22,42 +22,42 @@ const Services =() => (
             <br></br>
             <Image
             borderRadius="full"
-  boxSize="50px"
+  boxSize="90px"
   src="https://thumbs.dreamstime.com/b/icono-computacional-de-la-nube-con-un-s%C3%ADmbolo-del-documento-vector-146856637.jpg"
   alt="Segun Adebayo"
 />
 <Text fontSize="xs" color="gray.500" >CONTABILIDAD ELECTRÓNICA</Text>
             <Button colorScheme="blue" size="xs">
-                Button_1
+                Leer mas
             </Button>
             <Image
             borderRadius="full"
-  boxSize="50px"
+  boxSize="90px"
   src="https://images.vexels.com/media/users/3/129767/isolated/preview/547ed01097a7aaf9df985178b234a906-icono-de-lista-de-control-by-vexels.png"
   
   alt="Segun Adebayo"
 />
 <Text fontSize="xs" color="gray.500"></Text>
             <Button colorScheme="blue" size="xs">
-                Button_2
+                Leer mas
             </Button>
            
 <Image
             borderRadius="full"
-  boxSize="50px"
-  src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+  boxSize="90px"
+  src="https://image.flaticon.com/icons/svg/34/34733.svg"
   alt="Segun Adebayo"
 />
 <Text fontSize="xs" color="gray.500"></Text>
             <Button colorScheme="blue" size="xs">
-                Button_3
+                Leer mas
             </Button>
 <br></br>
 <br></br>
 <Image
 borderRadius="full"
-boxSize="50px"
-src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+boxSize="90px"
+src="https://image.flaticon.com/icons/png/512/64/64302.png"
 alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_4
@@ -65,8 +65,8 @@ alt="Segun Adebayo"/>
 <br></br>
 <Image
 borderRadius="full"
-boxSize="50px"
-src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+boxSize="90px"
+src="https://static.vecteezy.com/system/resources/previews/000/652/743/original/report-table-icon-vector.jpg"
 alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_5
