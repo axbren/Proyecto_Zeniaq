@@ -5,17 +5,21 @@ import {Box, BoxGroup} from "@chakra-ui/react"
 import {Image, ImageGroup} from "@chakra-ui/react"
 import {Text, TextGroup} from "@chakra-ui/react"
 import { Grid, GridItem } from "@chakra-ui/react"
+import { Link, LinkGroup } from "@chakra-ui/react"
 
 const Services =() => (
         
         <Container>
             <Head>
-                <title>Next.js - Services</title>
+                <Link href="https://www.lopezocadizcontadores.com/wp-content/uploads/2018/07/cropped-logos_lo_icon-2.png"  >
+                </Link>
+                <title>Contadores y Auditores Lopez Ocadiz</title>
             </Head>
             <center>
             <h1>Integramos servicios y herramientas contables.</h1>
             <p>Somos una empresa integrada por contadores públicos certificados, con una amplia experiencia profesional en materia de contaduría pública, asesoría fiscal y administrativa, </p>
             </center>
+            <br></br>
             <br></br>
             <br></br>
             <Image

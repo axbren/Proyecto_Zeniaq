@@ -4,7 +4,7 @@
  const Container = (props) => (
     <div>
         <Head>
-            <title>Acerca de</title>
+            <title>Contadores y Auditores Lopez Ocadiz</title>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/flatly/bootstrap.min.css"/>
         </Head>
         <Navigation/>

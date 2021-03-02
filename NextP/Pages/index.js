@@ -10,7 +10,7 @@ const Index = (props) => {
     return (
         <Container>
             <Head>
-                <title>Next.js - Home</title>
+                <title>Contadores y Auditores Lopez Ocadiz</title>
             </Head>
             <h1>Next</h1>
             <Button colorScheme="blue" variant="outline">
