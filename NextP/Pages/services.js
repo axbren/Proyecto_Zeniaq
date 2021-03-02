@@ -4,6 +4,7 @@ import { Button, ButtonGroup } from "@chakra-ui/react";
 import {Box, BoxGroup} from "@chakra-ui/react"
 import {Image, ImageGroup} from "@chakra-ui/react"
 import {Text, TextGroup} from "@chakra-ui/react"
+import { Grid, GridItem } from "@chakra-ui/react"
 
 const Services =() => (
         
@@ -15,6 +16,8 @@ const Services =() => (
             <h1>Integramos servicios y herramientas contables.</h1>
             <p>Somos una empresa integrada por contadores públicos certificados, con una amplia experiencia profesional en materia de contaduría pública, asesoría fiscal y administrativa, </p>
             </center>
+            <br></br>
+            <br></br>
             <Image
             borderRadius="full"
   boxSize="50px"
@@ -26,6 +29,7 @@ const Services =() => (
                 Button_1
             </Button>
             <tr></tr>
+            
             <Image
             borderRadius="full"
   boxSize="50px"
@@ -37,6 +41,7 @@ const Services =() => (
             <Button colorScheme="blue" size="xs">
                 Button_2
             </Button>
+           
 <tr></tr>
 <Image
             borderRadius="full"
