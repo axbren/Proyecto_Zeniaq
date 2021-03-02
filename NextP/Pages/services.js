@@ -30,8 +30,6 @@ const Services =() => (
             <Button colorScheme="blue" size="xs">
                 Button_1
             </Button>
-            <tr></tr>
-            
             <Image
             borderRadius="full"
   boxSize="50px"
@@ -44,7 +42,6 @@ const Services =() => (
                 Button_2
             </Button>
            
-<tr></tr>
 <Image
             borderRadius="full"
   boxSize="50px"
