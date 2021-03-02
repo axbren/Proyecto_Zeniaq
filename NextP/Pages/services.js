@@ -4,6 +4,7 @@ import { Button, ButtonGroup } from "@chakra-ui/react";
 import {Box, BoxGroup} from "@chakra-ui/react"
 import {Image, ImageGroup} from "@chakra-ui/react"
 import {Text, TextGroup} from "@chakra-ui/react"
+
 const Services =() => (
         
         <Container>
@@ -16,37 +17,52 @@ const Services =() => (
             </center>
             <Image
             borderRadius="full"
-  boxSize="100px"
+  boxSize="50px"
   src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
   alt="Segun Adebayo"
 />
-<Text fontSize="xs">CONTABILIDAD ELECTRÓNICA</Text>
-            <Button colorScheme="blue" variant="outline">
+<Text fontSize="xs" color="gray.500" >ORIENTACIÓN LEGAL Y FINANCIERA</Text>
+            <Button colorScheme="blue" size="xs">
                 Button_1
             </Button>
             <tr></tr>
-            <Button colorScheme="blue" variant="outline">
+            <Image
+            borderRadius="full"
+  boxSize="50px"
+  src="https://thumbs.dreamstime.com/b/icono-computacional-de-la-nube-con-un-s%C3%ADmbolo-del-documento-vector-146856637.jpg"
+  alt="Segun Adebayo"
+/>
+<Text fontSize="xs" color="gray.500">CONTABILIDAD ELECTRÓNICA</Text>
+            <Button colorScheme="blue" size="xs">
                 Button_2
             </Button>
-            <Button colorScheme="blue" variant="outline">
+<tr></tr>
+<Image
+            borderRadius="full"
+  boxSize="50px"
+  src="https://thumbs.dreamstime.com/b/icono-computacional-de-la-nube-con-un-s%C3%ADmbolo-del-documento-vector-146856637.jpg"
+  alt="Segun Adebayo"
+/>
+<Text fontSize="xs" color="gray.500">CONTABILIDAD ELECTRÓNICA</Text>
+            <Button colorScheme="blue" size="xs">
                 Button_3
             </Button>
-            <Button colorScheme="blue" variant="outline">
+            <Button colorScheme="blue" size="xs">
                 Button_4
             </Button>
-            <Button colorScheme="blue" variant="outline">
+            <Button colorScheme="blue" size="xs">
                 Button_5
             </Button>
-            <Button colorScheme="blue" variant="outline">
+            <Button colorScheme="blue" size="xs">
                 Button_6
             </Button>
-            <Button colorScheme="blue" variant="outline">
+            <Button colorScheme="blue" size="xs">
                 Button_7
             </Button>
-            <Button colorScheme="blue" variant="outline">
+            <Button colorScheme="blue" size="xs">
                 Button_8
             </Button>
-            <Button colorScheme="blue" variant="outline">
+            <Button colorScheme="blue" size="xs">
                 Button_9
             </Button>
 
