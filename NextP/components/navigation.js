@@ -2,7 +2,14 @@ import Link from 'next/link'
 import {Image, ImageGroup} from "@chakra-ui/react"
 const Navigation =() => {
     return (
+      
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
+          <Image
+            borderRadius="full"
+  boxSize="50px"
+  src="https://www.lopezocadizcontadores.com/wp-content/uploads/2018/07/cropped-logos_lo_icon-2.png"
+  alt="Segun Adebayo"
+/>
         <div className="container-fluid">
         <Link href="/">
             <a className="navbar-brand">Inicio</a>
@@ -23,14 +30,7 @@ const Navigation =() => {
                 <a className="nav-link">Servicios</a>
             </Link>
               </li> 
-              <li>
-              <Image
-            borderRadius="full"
-  boxSize="50px"
-  src="https://www.lopezocadizcontadores.com/wp-content/uploads/2018/07/cropped-logos_lo_icon-2.png"
-  alt="Segun Adebayo"
-/>
-                </li>         
+                  
             </ul>
           </div>
         </div>

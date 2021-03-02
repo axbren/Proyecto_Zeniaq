@@ -37,7 +37,8 @@ const Services =() => (
   
   alt="Segun Adebayo"
 />
-<Text fontSize="xs" color="gray.500"></Text>
+<Text fontSize="xs" color="gray.500">PRESENTACIÓN Y CUMPLIMIENTO DE OBLIGACIONES FISCALES
+</Text>
             <Button colorScheme="blue" size="xs">
                 Leer mas
             </Button>
@@ -48,7 +49,7 @@ const Services =() => (
   src="https://image.flaticon.com/icons/svg/34/34733.svg"
   alt="Segun Adebayo"
 />
-<Text fontSize="xs" color="gray.500"></Text>
+<Text fontSize="xs" color="gray.500">AUDITORIA DE ESTADOS FINANCIEROS</Text>
             <Button colorScheme="blue" size="xs">
                 Leer mas
             </Button>
@@ -62,6 +63,7 @@ alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_4
             </Button>
+<Text fontSize="xs" color="gray.500">ASESORÍA ADMINISTRATIVA Y CONTROL INTERNO</Text>
 <br></br>
 <Image
 borderRadius="full"
@@ -71,42 +73,55 @@ alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_5
             </Button>
+            <Text fontSize="xs" color="gray.500">ADMINISTRACIÓN DE DOCUMENTOS DIGITALES</Text>
 <br></br>
 <Image
 borderRadius="full"
-boxSize="50px"
+boxSize="90px"
 src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
 alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_6
             </Button>
+            <Text fontSize="xs" color="gray.500">ORIENTACIÓN LEGAL Y FINANCIERA</Text>
 <br></br>
 <Image
 borderRadius="full"
-boxSize="50px"
-src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+boxSize="90px"
+src="https://th.bing.com/th/id/OIP.loHqV6lefcI_wbLt9IniewHaHa?pid=ImgDet&rs=1"
 alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_7
             </Button>
+            <Text fontSize="xs" color="gray.500">PLANEACIÓN CONTABLE Y FISCAL</Text>
 <br></br>
 <Image
 borderRadius="full"
-boxSize="50px"
-src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+boxSize="90px"
+src="https://th.bing.com/th/id/OIP.VaAarVYZywKOd4_68sGXdQHaHa?pid=ImgDet&rs=1"
 alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_8
             </Button>
+            <Text fontSize="xs" color="gray.500">DEVOLUCIONES Y COMPENSACIONES</Text>
 <br></br>
 <Image
 borderRadius="full"
-boxSize="50px"
-src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
+boxSize="90px"
+src="https://i0.pngocean.com/files/695/297/280/bar-chart-computer-icons-statistics-graph-of-a-function-ascending-line.jpg"
 alt="Segun Adebayo"/>
             <Button colorScheme="blue" size="xs">
                 Button_9
             </Button>
+            <Text fontSize="xs" color="gray.500">PROYECTOS DE INVERSIÓN</Text>
+<br></br>
+<br></br>
+<br></br>
+<Image
+borderRadius="full"
+boxSize="150px"
+src="https://i0.pngocean.com/files/695/297/280/bar-chart-computer-icons-statistics-graph-of-a-function-ascending-line.jpg"
+alt="Segun Adebayo"/>
 
  </Container>
 )
