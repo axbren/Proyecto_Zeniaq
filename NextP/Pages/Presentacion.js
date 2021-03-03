@@ -3,6 +3,7 @@ import { AspectRatio, AspectRatioGroup } from "@chakra-ui/react"
 import Container from '../components/Container'
 import Head from 'next/head'
 import {Image, ImageGroup} from "@chakra-ui/react"
+import {Box, BoxGroup} from "@chakra-ui/react"
 const Presentacion =() => (
         
   <Container>
