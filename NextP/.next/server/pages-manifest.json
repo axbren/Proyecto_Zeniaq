@@ -3,5 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/Presentacion_y_cumplimiento_de_obligaciones_fiscales": "pages/Presentacion_y_cumplimiento_de_obligaciones_fiscales.js"
+  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js"
 }
