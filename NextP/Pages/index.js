@@ -3,7 +3,7 @@ import Container from "../components/Container";
 import Users from "../components/Users";
 
 
-import { Button, ButtonGroup } from "@chakra-ui/react";
+
 
 const Index = (props) => {
     console.log(props);
@@ -12,10 +12,9 @@ const Index = (props) => {
             <Head>
                 <title>Contadores y Auditores Lopez Ocadiz</title>
             </Head>
-            <h1>Next</h1>
-            <Button colorScheme="blue" variant="outline">
-                Button
-            </Button>
+            <center>
+            <h1>EXPERTOS EN MATERIA CONTABLE Y FISCAL</h1>
+            </center>
             <Users users={props.users} />
         </Container>
     );

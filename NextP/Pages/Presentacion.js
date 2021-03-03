@@ -3,7 +3,7 @@ import { AspectRatio, AspectRatioGroup } from "@chakra-ui/react"
 import Container from '../components/Container'
 import Head from 'next/head'
 import {Image, ImageGroup} from "@chakra-ui/react"
-import {Box, BoxGroup} from "@chakra-ui/react"
+import { Box } from "@chakra-ui/react"
 const Presentacion =() => (
         
   <Container>
@@ -15,9 +15,9 @@ const Presentacion =() => (
           <p>Somos una empresa integrada por contadores públicos certificados, con una amplia experiencia profesional en materia de contaduría pública, asesoría fiscal y administrativa, </p>
           </center>
           <Box
-  backgroundImage="url('/images/kyuubi.png')"
-  backgroundPosition="center"
-  backgroundRepeat="no-repeat"
+  bgImage="url('/images/gaara.png')"
+  bgPosition="center"
+  bgRepeat="no-repeat"
 />
 </Container>
 
