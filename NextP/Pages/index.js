@@ -2,6 +2,7 @@ import Head from "next/head";
 import Container from "../components/Container";
 import Users from "../components/Users";
 import {Image, ImageGroup} from "@chakra-ui/react"
+import { Input } from "@chakra-ui/react"
 
 
 
@@ -20,13 +21,14 @@ const Index = (props) => {
             <br></br>
             <br></br>
             <Image
-    boxSize="400px"
+    boxSize="390px"
     objectFit="cover"
     src="https://www.lopezocadizcontadores.com/wp-content/uploads/2018/10/cropped-achievement-agreement-arms-1068523-1.jpg"
     alt="Dan Abramov"
   />
     <Image
-    boxSize="400px"
+    align ="center"
+    boxSize="390px"
     objectFit="cover"
     src="https://www.lopezocadizcontadores.com/wp-content/uploads/2018/10/cropped-mission.jpg"
     alt="Dan Abramov"
