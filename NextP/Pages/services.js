@@ -59,7 +59,7 @@ const Services =() => (
 borderRadius="full"
 boxSize="90px"
 src="https://image.flaticon.com/icons/png/512/64/64302.png"
-alt="Segun Adebayo"/>
+alt="Segun Adebayo"/> <p></p>
             <Button colorScheme="blue" size="xs">
                 Button_4
             </Button>
