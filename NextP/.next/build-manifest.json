@@ -19,10 +19,10 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/index.js"
     ],
-    "/Presentacion": [
+    "/Presentacion_y_cumplimiento_de_obligaciones_fiscales": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/Presentacion.js"
+      "static/chunks/pages/Presentacion_y_cumplimiento_de_obligaciones_fiscales.js"
     ],
     "/_app": [
       "static/chunks/main.js",
