@@ -21,14 +21,14 @@ const Index = (props) => {
             <br></br>
             <br></br>
             <Image
-    boxSize="390px"
+    boxSize="300px"
     objectFit="cover"
     src="https://www.lopezocadizcontadores.com/wp-content/uploads/2018/10/cropped-achievement-agreement-arms-1068523-1.jpg"
     alt="Dan Abramov"
   />
     <Image
     align ="center"
-    boxSize="390px"
+    boxSize="300px"
     objectFit="cover"
     src="https://www.lopezocadizcontadores.com/wp-content/uploads/2018/10/cropped-mission.jpg"
     alt="Dan Abramov"
