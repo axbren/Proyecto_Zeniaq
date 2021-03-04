@@ -14,20 +14,10 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-    "/Orientacion_legal_y_financiera": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/Orientacion_legal_y_financiera.js"
-    ],
     "/Planeacion_contable_y_fiscal": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/Planeacion_contable_y_fiscal.js"
-    ],
-    "/Proyectos_de_inversion": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/Proyectos_de_inversion.js"
     ],
     "/_app": [
       "static/chunks/main.js",
@@ -38,11 +28,6 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
-    ],
-    "/next/dist/pages/_error": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/next/dist/pages/_error.js"
     ],
     "/services": [
       "static/chunks/main.js",
