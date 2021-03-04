@@ -14,10 +14,10 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-    "/Contabilidad_electronica": [
+    "/Presentacion_y_cumplimiento_de_obligaciones_fiscales": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/Contabilidad_electronica.js"
+      "static/chunks/pages/Presentacion_y_cumplimiento_de_obligaciones_fiscales.js"
     ],
     "/_app": [
       "static/chunks/main.js",
