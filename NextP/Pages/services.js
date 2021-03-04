@@ -9,7 +9,7 @@ import Link from 'next/link'
 
 const Services =() => (
         
-        <Container>
+        <Container w="100%" h="auto">
             <Head>
                 <title>Contadores y Auditores Lopez Ocadiz</title>
             </Head>
@@ -17,19 +17,37 @@ const Services =() => (
             <h1>Integramos servicios y herramientas contables.</h1>
             <p>Somos una empresa integrada por contadores públicos certificados, con una amplia experiencia profesional en materia de contaduría pública, asesoría fiscal y administrativa, </p>
             </center>
-            <br></br>
-            <br></br>
-            <br></br>
+          <Grid w="80%" h="auto" templateColumns="repeat(4,1fr)" templateRows="repeat(auto-fit, )">
+              <GridItem colStart={1} colEnd={1} rowStart={1} rowEnd={1}>
+              <Image
+            borderRadius="full"
+  boxSize="90px"
+  src="https://thumbs.dreamstime.com/b/icono-computacional-de-la-nube-con-un-s%C3%ADmbolo-del-documento-vector-146856637.jpg"
+  alt="Segun Adebayo"
+/>  <Text fontSize="xs" color="gray.500" >CONTABILIDAD ELECTRÓNICA</Text>
+            <Link href="/Contabilidad_electronica">
+                <a>Leer mas</a>
+            </Link>
+              </GridItem>
+              <GridItem colStart={2} colEnd={2} rowStart={1} rowEnd={1}>
+              <Image
+            borderRadius="full"
+  boxSize="90px"
+  src="https://thumbs.dreamstime.com/b/icono-computacional-de-la-nube-con-un-s%C3%ADmbolo-del-documento-vector-146856637.jpg"
+  alt="Segun Adebayo"
+/>  <Text fontSize="xs" color="gray.500" >CONTABILIDAD ELECTRÓNICA</Text>
+            <Link href="/Contabilidad_electronica">
+                <a>Leer mas</a>
+            </Link>
+              </GridItem>
+          </Grid>
             <Image
             borderRadius="full"
   boxSize="90px"
   src="https://thumbs.dreamstime.com/b/icono-computacional-de-la-nube-con-un-s%C3%ADmbolo-del-documento-vector-146856637.jpg"
   alt="Segun Adebayo"
 />
-<Text fontSize="xs" color="gray.500" >CONTABILIDAD ELECTRÓNICA</Text>
-            <Link href="">
-                <a>Leer mas</a>
-            </Link>
+
 
             <Image
             borderRadius="full"
@@ -54,8 +72,7 @@ const Services =() => (
             <Button colorScheme="blue" size="xs">
                 Leer mas
             </Button>
-<br></br>
-<br></br>
+
 <Image
 borderRadius="full"
 boxSize="90px"
@@ -75,7 +92,7 @@ alt="Segun Adebayo"/>
                 Button_5
             </Button>
             <Text fontSize="xs" color="gray.500">ADMINISTRACIÓN DE DOCUMENTOS DIGITALES</Text>
-<br></br>
+
 <Image
 borderRadius="full"
 boxSize="90px"
