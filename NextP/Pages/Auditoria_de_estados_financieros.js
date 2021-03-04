@@ -9,6 +9,7 @@ const Auditoria_de_estados_financieros =() => (
                 <title>Contadores y Auditores Lopez Ocadiz</title>
             </Head>
             <center>
+			<h1>Estas en Auditoria de estados financieros.</h1>
             <h1>Integramos servicios y herramientas contables.</h1>
             <p>Somos una empresa integrada por contadores públicos certificados, con una amplia experiencia profesional en materia de contaduría pública, asesoría fiscal y administrativa, </p>
             </center>
