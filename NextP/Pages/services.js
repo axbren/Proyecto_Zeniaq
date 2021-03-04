@@ -66,10 +66,11 @@ borderRadius="full"
 boxSize="90px"
 src="https://image.flaticon.com/icons/png/512/64/64302.png"
 alt="Segun Adebayo"/> <p></p>
-<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+<Text fontSize="xs" color="gray.500">ASESORÍA ADMINISTRATIVA Y CONTROL INTERNO</Text>
+<Link href="/Asesoria_administrativa_y_control_interno">
                 <a>Leer mas</a>
             </Link>
-<Text fontSize="xs" color="gray.500">ASESORÍA ADMINISTRATIVA Y CONTROL INTERNO</Text>
+
 					</GridItem>
 
 					<GridItem colStart={1} colEnd={1} rowStart={2} rowEnd={2}>
@@ -79,7 +80,7 @@ boxSize="90px"
 src="https://static.vecteezy.com/system/resources/previews/000/652/743/original/report-table-icon-vector.jpg"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">ADMINISTRACIÓN DE DOCUMENTOS DIGITALES</Text>
-<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+<Link href="/Administracion_de_documentos_digitales">
                 <a>Leer mas</a>
             </Link>
 </GridItem>
@@ -91,7 +92,7 @@ boxSize="90px"
 src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">ORIENTACIÓN LEGAL Y FINANCIERA</Text>
-<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+<Link href="/Orientacion_legal_y_financiera">
                 <a>Leer mas</a>
             </Link>
             					
@@ -103,7 +104,7 @@ boxSize="90px"
 src="https://th.bing.com/th/id/OIP.loHqV6lefcI_wbLt9IniewHaHa?pid=ImgDet&rs=1"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">PLANEACIÓN CONTABLE Y FISCAL</Text>	
-<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+<Link href="/Planeacion_contable_y_fiscal">
                 <a>Leer mas</a>
             </Link>
             				
@@ -115,7 +116,7 @@ boxSize="90px"
 src="https://th.bing.com/th/id/OIP.VaAarVYZywKOd4_68sGXdQHaHa?pid=ImgDet&rs=1"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">DEVOLUCIONES Y COMPENSACIONES</Text>
-<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+<Link href="/Devoluciones_y_compensaciones">
                 <a>Leer mas</a>
             </Link>
             				
@@ -127,7 +128,7 @@ boxSize="90px"
 src="https://i0.pngocean.com/files/695/297/280/bar-chart-computer-icons-statistics-graph-of-a-function-ascending-line.jpg"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">PROYECTOS DE INVERSIÓN</Text>
-<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+<Link href="/Proyectos_de_inversion">
                 <a>Leer mas</a>
             </Link>
             

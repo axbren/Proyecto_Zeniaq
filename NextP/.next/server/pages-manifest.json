@@ -2,11 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-<<<<<<< Updated upstream
-  "/": "pages/index.js",
-  "/services": "pages/services.js"
-=======
   "/services": "pages/services.js",
-  "/": "pages/index.js"
->>>>>>> Stashed changes
+  "/Orientacion_legal_y_financiera": "pages/Orientacion_legal_y_financiera.js",
+  "/Proyectos_de_inversion": "pages/Proyectos_de_inversion.js",
+  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
+  "/Planeacion_contable_y_fiscal": "pages/Planeacion_contable_y_fiscal.js"
 }
