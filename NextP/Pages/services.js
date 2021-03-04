@@ -5,7 +5,7 @@ import {Box, BoxGroup} from "@chakra-ui/react"
 import {Image, ImageGroup} from "@chakra-ui/react"
 import {Text, TextGroup} from "@chakra-ui/react"
 import { Grid, GridItem } from "@chakra-ui/react"
-import {Link, LinkGroup} from "@chakra-ui/react"
+import Link from 'next/link'
 
 const Services =() => (
         
@@ -27,9 +27,10 @@ const Services =() => (
   alt="Segun Adebayo"
 />
 <Text fontSize="xs" color="gray.500" >CONTABILIDAD ELECTRÓNICA</Text>
-            <Button colorScheme="blue" size="xs">
-             <Link href="/Contabilidad_electronica">Leer mas</Link>
-            </Button>
+            <Link href="">
+                <a>Leer mas</a>
+            </Link>
+
             <Image
             borderRadius="full"
   boxSize="90px"
