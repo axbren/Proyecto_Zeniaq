@@ -19,7 +19,7 @@ const Services =() => (
             </center>
 			<br></br>
 			<br></br>
-          <Grid w="80%" h="auto" templateColumns="repeat(4,1fr)" templateRows="repeat(auto-fit, )">
+          <Grid w="80%" h="auto" templateColumns="repeat(4,1fr)" templateRows="repeat(auto-fit,1fr)" alignSelf="center">
               <GridItem colStart={1} colEnd={1} rowStart={1} rowEnd={1}>
               <Image
             borderRadius="full"
