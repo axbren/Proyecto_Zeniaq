@@ -14,10 +14,10 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-    "/Presentacion_y_cumplimiento_de_obligaciones_fiscales": [
+    "/": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/Presentacion_y_cumplimiento_de_obligaciones_fiscales.js"
+      "static/chunks/pages/index.js"
     ],
     "/_app": [
       "static/chunks/main.js",
