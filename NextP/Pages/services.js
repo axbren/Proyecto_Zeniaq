@@ -41,10 +41,11 @@ const Services =() => (
 />
 <Text fontSize="xs" color="gray.500">PRESENTACIÓN Y CUMPLIMIENTO DE OBLIGACIONES FISCALES
 </Text>
-            <Button colorScheme="blue" size="xs">
-                <Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">Leer mas</Link>
-            </Button>
-              </GridItem>
+
+<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+                <a>Leer mas</a>
+            </Link>
+</GridItem>
        <GridItem colStart={3} colEnd={3} rowStart={1} rowEnd={1}>
 			 
 	   <Image
@@ -54,9 +55,9 @@ const Services =() => (
   alt="Segun Adebayo"
 />
 <Text fontSize="xs" color="gray.500">AUDITORIA DE ESTADOS FINANCIEROS</Text>
-            <Button colorScheme="blue" size="xs">
-                Leer mas
-            </Button>
+<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+                <a>Leer mas</a>
+            </Link>
               </GridItem>
 			  <GridItem colStart={4} colEnd={4} rowStart={1} rowEnd={1}>
 			 
@@ -65,9 +66,9 @@ borderRadius="full"
 boxSize="90px"
 src="https://image.flaticon.com/icons/png/512/64/64302.png"
 alt="Segun Adebayo"/> <p></p>
-            <Button colorScheme="blue" size="xs">
-                Button_4
-            </Button>
+<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+                <a>Leer mas</a>
+            </Link>
 <Text fontSize="xs" color="gray.500">ASESORÍA ADMINISTRATIVA Y CONTROL INTERNO</Text>
 					</GridItem>
 
@@ -78,9 +79,9 @@ boxSize="90px"
 src="https://static.vecteezy.com/system/resources/previews/000/652/743/original/report-table-icon-vector.jpg"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">ADMINISTRACIÓN DE DOCUMENTOS DIGITALES</Text>
-            <Button colorScheme="blue" size="xs">
-                Button_5
-            </Button>
+<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+                <a>Leer mas</a>
+            </Link>
 </GridItem>
 <GridItem colStart={2} colEnd={2} rowStart={2} rowEnd={2}>
 
@@ -90,9 +91,9 @@ boxSize="90px"
 src="https://images.vexels.com/media/users/3/131163/isolated/preview/751175c268ea1f69854ff67fb93ee1a2-el-juez-icono-del-c-rculo-de-martillo-by-vexels.png"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">ORIENTACIÓN LEGAL Y FINANCIERA</Text>
-            <Button colorScheme="blue" size="xs">
-                Button_6
-            </Button>
+<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+                <a>Leer mas</a>
+            </Link>
             					
 </GridItem>
 <GridItem colStart={3} colEnd={3} rowStart={2} rowEnd={2}>
@@ -102,9 +103,9 @@ boxSize="90px"
 src="https://th.bing.com/th/id/OIP.loHqV6lefcI_wbLt9IniewHaHa?pid=ImgDet&rs=1"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">PLANEACIÓN CONTABLE Y FISCAL</Text>	
-            <Button colorScheme="blue" size="xs">
-                Button_7
-            </Button>
+<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+                <a>Leer mas</a>
+            </Link>
             				
 </GridItem>
 <GridItem colStart={4} colEnd={4} rowStart={2} rowEnd={2}>
@@ -114,9 +115,9 @@ boxSize="90px"
 src="https://th.bing.com/th/id/OIP.VaAarVYZywKOd4_68sGXdQHaHa?pid=ImgDet&rs=1"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">DEVOLUCIONES Y COMPENSACIONES</Text>
-            <Button colorScheme="blue" size="xs">
-                Button_8
-            </Button>
+<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+                <a>Leer mas</a>
+            </Link>
             				
 </GridItem>
 <GridItem colStart={1} colEnd={1} rowStart={3} rowEnd={3}>
@@ -126,9 +127,9 @@ boxSize="90px"
 src="https://i0.pngocean.com/files/695/297/280/bar-chart-computer-icons-statistics-graph-of-a-function-ascending-line.jpg"
 alt="Segun Adebayo"/>
 <Text fontSize="xs" color="gray.500">PROYECTOS DE INVERSIÓN</Text>
-            <Button colorScheme="blue" size="xs">
-                Button_9
-            </Button>
+<Link href="/Presentacion_y_cumplimiento_de_obligaciones_fiscales">
+                <a>Leer mas</a>
+            </Link>
             
             				
 </GridItem>
